@@ -1,5 +1,5 @@
 ### initialize git 
-git init
+'git init'
 
 
 ### make some changes 
